@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5923679a.css",
+    "main.js": "/static/js/main.051e5c3b.js",
+    "static/media/boomslag-black.png": "/static/media/boomslag-black.27e2b30710dda10e3cd2.png",
+    "index.html": "/index.html",
+    "main.5923679a.css.map": "/static/css/main.5923679a.css.map",
+    "main.051e5c3b.js.map": "/static/js/main.051e5c3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5923679a.css",
+    "static/js/main.051e5c3b.js"
+  ]
+}
